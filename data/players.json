@@ -1,0 +1,482 @@
+[
+  {
+    "nickname": "Dream",
+    "real_name": "Clay",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 8.5,
+      "knowledge": 8.9,
+      "traps": -1,
+      "parkour": 9.3,
+      "pvpiq": 9.0,
+      "aim": 8.7,
+      "mlg": 9.2,
+      "reflection": 8.8,
+      "speedrun": 9.1,
+      "manhunt": 10,
+      "speeding": -1
+    },
+    "title": "Legend+"
+  },
+  {
+    "nickname": "ItzRealMe",
+    "real_name": "Unknown",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 9.3,
+      "knowledge": 8.2,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 9.28,
+      "aim": 7.8,
+      "mlg": 6.8,
+      "reflection": 8.71,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Legend"
+  },
+  {
+    "nickname": "Swight",
+    "real_name": "Unknown",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 9.59,
+      "knowledge": 8.5,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 9.36,
+      "aim": 8,
+      "mlg": 6.1,
+      "reflection": 8.60,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Legend"
+  },
+  {
+    "nickname": "coldified",
+    "real_name": "Unknown",
+    "country": "Spain",
+    "region": "Europe",
+    "stats": {
+      "pvp": 8.9,
+      "knowledge": 8.0,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 9.18,
+      "aim": 8.13,
+      "mlg": 7.2,
+      "reflection": 8.61,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Legend"
+  },
+  {
+    "nickname": "Skeppy",
+    "real_name": "Unknown",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 7.1,
+      "knowledge": 7.8,
+      "traps": 5.4,
+      "parkour": 6.7,
+      "pvpiq": 9.28,
+      "aim": 6.1,
+      "mlg": 6.8,
+      "reflection": 8.71,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Pro"
+  },
+  {
+    "nickname": "ClownPierce",
+    "real_name": "Unknown",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 8.4,
+      "knowledge": 7.9,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 7.3,
+      "aim": 8.1,
+      "mlg": -1,
+      "reflection": 7.6,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Master"
+  },
+  {
+    "nickname": "Nubx_",
+    "real_name": "Unknown",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 8.67,
+      "knowledge": 7.1,
+      "traps": -1,
+      "parkour": 6.4,
+      "pvpiq": 8.43,
+      "aim": 8.1,
+      "mlg": -1,
+      "reflection": 7.9,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Master"
+  },
+  {
+    "nickname": "meteorinto",
+    "real_name": "Unknown",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 8.9,
+      "knowledge": 6.6,
+      "traps": -1,
+      "parkour": 6.8,
+      "pvpiq": 8.7,
+      "aim": 8.4,
+      "mlg": -1,
+      "reflection": 8.3,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Master"
+  },
+  {
+    "nickname": "conexion",
+    "real_name": "Unknown",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 9,
+      "knowledge": 7.1,
+      "traps": 7.62,
+      "parkour": 7.1,
+      "pvpiq": 7.6,
+      "aim": 8.98,
+      "mlg": 7.5,
+      "reflection": 8.7,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": 6.6
+    },
+    "title": "Master"
+  },
+  {
+    "nickname": "Marlowww",
+    "real_name": "Unknown",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": -1,
+      "knowledge": -1,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": -1,
+      "aim": -1,
+      "mlg": -1,
+      "reflection": -1,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Tier Reset"
+  },
+  {
+    "nickname": "JudeLow",
+    "real_name": "Unknown",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 7.19,
+      "knowledge": 9.3,
+      "traps": 9.5,
+      "parkour": 6.2,
+      "pvpiq": 9.1,
+      "aim": 8.1,
+      "mlg": 7.01,
+      "reflection": 7.8,
+      "speedrun": -1,
+      "manhunt": 6.22,
+      "speeding": -1
+    },
+    "title": "Master"
+  },
+  {
+    "nickname": "DrDonutt",
+    "real_name": "Unknown",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 8.86,
+      "knowledge": 8.15,
+      "traps": -1,
+      "parkour": 6.2,
+      "pvpiq": 8.2,
+      "aim": 8.8,
+      "mlg": 6.67,
+      "reflection": 8.4,
+      "speedrun": -1,
+      "manhunt": 4.22,
+      "speeding": -1
+    },
+    "title": "Master"
+  },
+  {
+    "nickname": "Technoblade",
+    "real_name": "Alex",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 9.1,
+      "knowledge": 8.2,
+      "traps": -1,
+      "parkour": 9.5,
+      "pvpiq": 9.1,
+      "aim": 9.4,
+      "mlg": 8.9,
+      "reflection": 9.3,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Legend++"
+  },
+  {
+    "nickname": "Wemmbu",
+    "real_name": "Unknown",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 7.8,
+      "knowledge": 7.1,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 7.5,
+      "aim": 8.1,
+      "mlg": 6.3,
+      "reflection": 7.1,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Pro"
+  },
+  {
+    "nickname": "Sapnap",
+    "real_name": "Nicholas",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 6.6,
+      "knowledge": 6.35,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 6.62,
+      "aim": 7.8,
+      "mlg": 6.8,
+      "reflection": 6.6,
+      "speedrun": -1,
+      "manhunt": 6.4,
+      "speeding": -1
+    },
+    "title": "Pro"
+  },
+  {
+    "nickname": "GeorgeNotFound",
+    "real_name": "George",
+    "country": "United States",
+    "region": "North America",
+    "stats": {
+      "pvp": 5.4,
+      "knowledge": 5.1,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 3.0,
+      "aim": 4.2,
+      "mlg": 5.0,
+      "reflection": 4.8,
+      "speedrun": -1,
+      "manhunt": 3.2,
+      "speeding": -1
+    },
+    "title": "Beginner"
+  },
+  {
+    "nickname": "Rafinha_gelo",
+    "real_name": "Rafael",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 5.9,
+      "knowledge": 5.1,
+      "traps": 1.2,
+      "parkour": 6.1,
+      "pvpiq": 5.21,
+      "aim": 4.59,
+      "mlg": 5.3,
+      "reflection": 4.6,
+      "speedrun": 2.1,
+      "manhunt": 4.3,
+      "speeding": -1
+    },
+    "title": "Beginner"
+  },
+  {
+    "nickname": "MIGUEL030",
+    "real_name": "Miguel",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 6.0,
+      "knowledge": 4.4,
+      "traps": -1,
+      "parkour": 5.87,
+      "pvpiq": 4.43,
+      "aim": 4.68,
+      "mlg": 5.6,
+      "reflection": 4.35,
+      "speedrun": -1,
+      "manhunt": 1.2,
+      "speeding": -1
+    },
+    "title": "Beginner"
+  },
+  {
+    "nickname": "nicizzi",
+    "real_name": "Unknown",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 7.1,
+      "knowledge": 6.5,
+      "traps": -1,
+      "parkour": 6.29,
+      "pvpiq": 5.8,
+      "aim": 6.2,
+      "mlg": 6.5,
+      "reflection": 6.1,
+      "speedrun": -1,
+      "manhunt": 3.3,
+      "speeding": -1
+    },
+    "title": "Intermediate"
+  },
+  {
+    "nickname": "Fekete_",
+    "real_name": "Wilson",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 7.58,
+      "knowledge": 7.2,
+      "traps": -1,
+      "parkour": 6.9,
+      "pvpiq": 7.8,
+      "aim": 6.88,
+      "mlg": 6.71,
+      "reflection": 6.19,
+      "speedrun": -1,
+      "manhunt": 4.7,
+      "speeding": -1
+    },
+    "title": "Pro"
+  },
+  {
+    "nickname": "KingAbysss",
+    "real_name": "Unknown",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 7.6,
+      "knowledge": 8.0,
+      "traps": -1,
+      "parkour": 7.5,
+      "pvpiq": 7.8,
+      "aim": 7.31,
+      "mlg": 8.82,
+      "reflection": 6.5,
+      "speedrun": 3.84,
+      "manhunt": 4.8,
+      "speeding": 5.5
+    },
+    "title": "Pro"
+  },
+  {
+    "nickname": "queirozkkk",
+    "real_name": "Queiroz",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 6.76,
+      "knowledge": 6.11,
+      "traps": -1,
+      "parkour": 6.69,
+      "pvpiq": 5.13,
+      "aim": 4.55,
+      "mlg": 5.1,
+      "reflection": 5.3,
+      "speedrun": -1,
+      "manhunt": 3.3,
+      "speeding": -1
+    },
+    "title": "Intermediate"
+  },
+  {
+    "nickname": "HuginWGoat67",
+    "real_name": "Unknown",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 6.6,
+      "knowledge": -1,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 6.4,
+      "aim": -1,
+      "mlg": -1,
+      "reflection": -1,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Pro"
+  },
+  {
+    "nickname": "olfd",
+    "real_name": "Unknown",
+    "country": "Argentina",
+    "region": "South America",
+    "stats": {
+      "pvp": 7.0,
+      "knowledge": -1,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 6.8,
+      "aim": -1,
+      "mlg": -1,
+      "reflection": -1,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Pro"
+  }
+]

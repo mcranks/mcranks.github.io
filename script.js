@@ -47,7 +47,7 @@ const titleColors = {
   "Advanced": "#3fbf7f",
   "Intermediate": "#bfbfbf",
   "Beginner": "#777777",
-  "Tier Reset": "#ff0000"
+  "Rank Reset": "#ff0000"
 };
 
 const statIcons = {
