@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <title>Docs - Ranking Minecraft</title>
+</head>
+
+<body>
+
+<div id="header">
+  <img src="srcs/logo.png" class="logo">
+
+  <div class="nav">
+    <span class="disabled" onclick="window.location.href='home.html'"><i class="fas fa-home"></i> Home</span>
+    <span class="disabled" onclick="window.location.href='main.html'"><i class="fas fa-medal"></i> Rankings</span>
+    <span class="disabled" onclick="window.location.href='https://discord.gg/Fyjk4JD9n7'"><i class="fa-brands fa-discord"></i> Discord</span>
+    <span class="active" onclick="location.href='docs.html'"><i class="fas fa-book"></i> Docs</span>
+  </div>
+
+  <input type="text" id="search" placeholder="Search player..." disabled>
+</div>
+
+<div id="doc">
+  <img src="srcs/logo.png" class="doc-logo">
+
+  <h1>Documentation</h1>
+
+  <section class="doc-section">
+    <h2>Titles</h2>
+
+    <ul class="doc-list">
+      <li><span class="tag legendpp">Legend++</span> Special title for homage players too importants for the community.</li>
+      <li><span class="tag legendp">Legend+</span> The highest rank, achieved by the most skilled players.</li>
+      <li><span class="tag legend">Legend</span> A prestigious rank for top-tier players.</li>
+      <li><span class="tag master">Master</span> An advanced rank for experienced players.</li>
+      <li><span class="tag pro">Pro</span> A professional rank for highly skilled players.</li>
+      <li><span class="tag intermediate">Intermediate</span> A rank for players with moderate skills.</li>
+      <li><span class="tag beginner">Beginner</span> The starting rank for new players.</li>
+    </ul>
+  </section>
+
+  <p class="doc-text">To get any of these titles, you need to meet the requirements.</p>
+
+  <section class="doc-section">
+    <h2>Title Requirements</h2>
+
+    <ul class="doc-list">
+      <li><span class="tag legendpp">Legend++</span> No requirements (special players)</li>
+      <li><span class="tag legendp">Legend+</span> 8.60+ pts</li>
+      <li><span class="tag legend">Legend</span> 8.00+ pts</li>
+      <li><span class="tag master">Master</span> 7.40+ pts</li>
+      <li><span class="tag pro">Pro</span> 6.40+ pts</li>
+      <li><span class="tag intermediate">Intermediate</span> 4.80+ pts</li>
+      <li><span class="tag beginner">Beginner</span> 0.67+ pts</li>
+    </ul>
+  </section>
+
+  <section class="doc-section">
+    <h2>How to get ranked</h2>
+
+    <p class="doc-text">To get forced ranked, you need to upload your clip in any social media, showing your nickname, mods folder and <a href="https://modrinth.com/mod/modmenu">Mod Menu</a> at the game  </p>
+  </section>
+</div>
+
+<script src="search.js"></script>
+
+</body>
+</html>

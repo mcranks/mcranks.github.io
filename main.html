@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<title>Ranking Minecraft</title>
+
+</style>
+</head>
+
+<body>
+
+<div id="header">
+  <img src="srcs/logo.png" class="logo">
+
+  <div class="nav">
+    <span class="disabled" onclick="window.location.href='home.html'"><i class="fas fa-home"></i> Home</span>
+    <span class="active" onclick="window.location.href='main.html'"><i class="fas fa-medal"></i> Rankings</span>
+    <span class="disabled" onclick="window.location.href='https://discord.gg/Fyjk4JD9n7'"><i class="fa-brands fa-discord"></i> Discord</span>
+    <span class="disabled" onclick="location.href='docs.html'"><i class="fas fa-book"></i> Docs</span>
+  </div>
+
+  <i class="fas fa-search" style="margin-right: -290px;"></i>
+  <input type="text" id="search" placeholder="Search player...">
+</div>
+
+<div id="ranking"></div>
+
+<div id="modal">
+  <div class="modal-box">
+
+    <div class="modal-header">
+      <img id="mSkin" class="modal-skin">
+
+      <div>
+        <div id="mNick" class="modal-nick"></div>
+        <div class="modal-rank">
+          <img id="mRankImg">
+          <span id="mRankText"></span>
+        </div>
+      </div>
+
+      <div class="close" onclick="closeModal()">✖</div>
+    </div>
+
+    <div class="modal-info">
+      <div id="mRegion"></div>
+      <div id="mPoints"></div>
+    </div>
+
+    <div id="mStats" class="modal-stats"></div>
+
+  </div>
+</div>
+
+<script src="script.js"></script>
+<script src="search.js"></script>
+
+</body>
+</html>
