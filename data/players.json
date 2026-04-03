@@ -478,5 +478,25 @@
       "speeding": -1
     },
     "title": "Pro"
+  },
+  {
+    "nickname": "ambicionado",
+    "real_name": "Unknown",
+    "country": "Brazil",
+    "region": "South America",
+    "stats": {
+      "pvp": 6.70,
+      "knowledge": 6.70,
+      "traps": -1,
+      "parkour": -1,
+      "pvpiq": 6.35,
+      "aim": 7.0,
+      "mlg": -1,
+      "reflection": 6.75,
+      "speedrun": -1,
+      "manhunt": -1,
+      "speeding": -1
+    },
+    "title": "Pro"
   }
 ]
